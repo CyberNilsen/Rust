@@ -1,0 +1,11 @@
+C:\Users\ander\Desktop\Rust\GUITest\target\debug\deps\libi_slint_common-ec027bbe7c025954.rmeta: C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\lib.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\builtin_structs.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\enums.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\key_codes.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\README.md
+
+C:\Users\ander\Desktop\Rust\GUITest\target\debug\deps\libi_slint_common-ec027bbe7c025954.rlib: C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\lib.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\builtin_structs.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\enums.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\key_codes.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\README.md
+
+C:\Users\ander\Desktop\Rust\GUITest\target\debug\deps\i_slint_common-ec027bbe7c025954.d: C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\lib.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\builtin_structs.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\enums.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\key_codes.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\README.md
+
+C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\lib.rs:
+C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\builtin_structs.rs:
+C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\enums.rs:
+C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\key_codes.rs:
+C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-common-1.11.0\README.md:

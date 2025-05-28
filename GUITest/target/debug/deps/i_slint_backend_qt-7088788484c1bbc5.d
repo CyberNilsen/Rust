@@ -1,0 +1,10 @@
+C:\Users\ander\Desktop\Rust\GUITest\target\debug\deps\libi_slint_backend_qt-7088788484c1bbc5.rmeta: C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.11.0\lib.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.11.0\accessible_generated.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.11.0\key_generated.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.11.0\README.md
+
+C:\Users\ander\Desktop\Rust\GUITest\target\debug\deps\libi_slint_backend_qt-7088788484c1bbc5.rlib: C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.11.0\lib.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.11.0\accessible_generated.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.11.0\key_generated.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.11.0\README.md
+
+C:\Users\ander\Desktop\Rust\GUITest\target\debug\deps\i_slint_backend_qt-7088788484c1bbc5.d: C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.11.0\lib.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.11.0\accessible_generated.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.11.0\key_generated.rs C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.11.0\README.md
+
+C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.11.0\lib.rs:
+C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.11.0\accessible_generated.rs:
+C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.11.0\key_generated.rs:
+C:\Users\ander\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.11.0\README.md:
